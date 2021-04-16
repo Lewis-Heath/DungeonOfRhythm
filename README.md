@@ -1,1 +1,2 @@
-# dungeonofrhythm.github.io
+# DungeonOfRhythm.github.io
+Written in HTML.
